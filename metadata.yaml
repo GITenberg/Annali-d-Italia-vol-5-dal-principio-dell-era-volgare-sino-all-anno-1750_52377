@@ -1,5 +1,8 @@
 _repo: Annali-d-Italia-vol-5-dal-principio-dell-era-volgare-sino-all-anno-1750_52377
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52377-h/images/cover.jpg
 creator:
   author:
     agent_name: Muratori, Lodovico Antonio
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40167
     wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52377#Annali-d-Italia-vol-5-dal-principio-dell-era-volgare-sino-all-anno-1750
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2016-06-19'
 gutenberg_type: Text
